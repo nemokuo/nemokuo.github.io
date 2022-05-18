@@ -3759,6 +3759,7 @@ a.vl-link.reverse:hover::after {
 .vl-portfolio-grid-filters {
     margin-bottom: 50px;
     text-align: center;
+
 }
 
 .vl-portfolio-grid-filters .vl-filter-counter::before {
@@ -4150,10 +4151,11 @@ a.vl-link.reverse:hover::after {
     background-position: center center;
     background-repeat: no-repeat;
     width: 100%;
+
 }
 
 .vl-hero-title-inner {
-    padding: 60px;
+    padding: 10px;
     text-align: center;
     min-width: 30%;
     background-color: rgba(255,255,255,0.95);
@@ -4165,6 +4167,7 @@ a.vl-link.reverse:hover::after {
     font-weight: 700;
     letter-spacing: 2px;
     line-height: 1.4;
+
 }
 
 .vl-hero-title-inner .vl-hero-subtitle,
@@ -4442,3 +4445,19 @@ a.vl-link.reverse:hover::after {
 .vl-video-lightbox-holder .vl-video-lightbox:hover {
     color: #aaa;
 }
+
+
+button{;
+background-color:#000;
+color:#fff;
+}
+
+table, tr, td{
+ 
+ border-color: #D3D3D3;
+ 
+}
+
+
+
+
